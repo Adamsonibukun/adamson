@@ -1,0 +1,1 @@
+HI  this is ADAMSON,and this is my first code with github
